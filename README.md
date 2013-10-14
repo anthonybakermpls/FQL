@@ -6,7 +6,7 @@ It would be cool if instead of SQL I could do like this:
 
 /*
 
-A record is a vector composed of varying datatypes/domains.
+A record is a vector composed of varying datatypes/domains.\n
 R = integer ⊗ varchar(200) ⊗ date
 R = (i,v,d)
 R= (1, "Hello world!", 20131012)
