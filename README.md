@@ -2,7 +2,8 @@ FQL
 ===
 
 
-It would be cool if instead of SQL I could do like this:
+Brainstorming.
+
 
 /*
 
